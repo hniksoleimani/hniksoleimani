@@ -11,7 +11,6 @@
 - 🔭 I’m currently building APIs with **Django** and exploring **DevOps pipelines**
 - ⚙️ I use tools like: `Docker`, `GitLab CI/CD`, `Nginx`, `FastAPI`, `React`
 - 💡 I love learning about **MLOps**, **cloud infrastructure**, and automation
-- 🌍 Based in 🇮🇷, moving towards 🇨🇦!
 - 🎹 I play classical piano in my free time  
 - 🧠 INFJ personality – always curious, always evolving
 
